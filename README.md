@@ -1,7 +1,7 @@
 
 针对 大麦路由器  DW33D 专门优化的固件，带 v2ray 你懂的 
 
-固件   DW33D-v2ray-极度优化-openwrt-ar71xx-nand-domywifi-dw33d-squashfs-sysupgrade.bin
+固件   [DW33D-v2ray-极度优化-openwrt-ar71xx-nand-domywifi-dw33d-squashfs-sysupgrade.bin](https://github.com/qiang-yu/firmware/raw/master/DW33D-v2ray-%E6%9E%81%E5%BA%A6%E4%BC%98%E5%8C%96-openwrt-ar71xx-nand-domywifi-dw33d-squashfs-sysupgrade.bin)
 
 采用 L大的 OpenWrt 8.1稳定版本编译，专门为 DW33D 编译，对 v2ray 做了极度优化，能非常顺畅的跑
 

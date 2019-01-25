@@ -5,6 +5,8 @@
 
 固件初始登陆密码：password   刷机之后自己记得修改密码
 
+由于 DW33D 的 GIGA 板子有缺陷，不能开启 2.4G 无线，否则必定死机，我这里专门编译了一个 GIGA的版本，自己下载 [no-ath9k-openwrt-ar71xx-nand-domywifi-dw33d-squashfs-sysupgrade](https://github.com/qiang-yu/firmware/raw/master/no-ath9k-openwrt-ar71xx-nand-domywifi-dw33d-squashfs-sysupgrade.bin)，只有 5G 没有 2.4G ，可以在 GIGA 板子上正常工作 
+
 采用 L大的 OpenWrt 8.1稳定版本编译，专门为 DW33D 编译，对 v2ray 做了极度优化，能非常顺畅的跑
 
 固件优化内容 ， L大的原始版本固件（下面称 原始固件）

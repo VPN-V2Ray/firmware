@@ -1,4 +1,15 @@
 
+20190211 更新
+
+在之前的版本上，增加了石像鬼 qos 的支持，测试效果不错，比 openwrt 自带的 sqm 好很多， sqm 的qos就是渣，基本上没什么效果
+
+石像鬼 qos 和  SFE 加速 冲突， 两者只能运行一个， 开启了 SFE加速  会导致石像鬼 qos 失效，所以我专门发布了一个石像鬼 qos 的版本
+
+如果你需要石像鬼 qos 功能，就下载带有  gargoyle 字样的文件
+
+如果你不需要 qos 但是你很在乎 SFE 加速，那么下载之前的版本就可以了，之前的版本往下看 
+
+
 针对 大麦路由器  DW33D 专门优化的固件，带 v2ray 你懂的 
 
 固件   [DW33D-v2ray-极度优化-openwrt-ar71xx-nand-domywifi-dw33d-squashfs-sysupgrade.bin](https://github.com/qiang-yu/firmware/raw/master/DW33D-v2ray-%E6%9E%81%E5%BA%A6%E4%BC%98%E5%8C%96-openwrt-ar71xx-nand-domywifi-dw33d-squashfs-sysupgrade.bin)
